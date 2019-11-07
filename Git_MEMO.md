@@ -5,3 +5,5 @@
 	- git init
 - ステージングエリアにファイルを追加する
 	- git add
+- コミットする
+	- git commit
