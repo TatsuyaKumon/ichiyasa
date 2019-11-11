@@ -7,3 +7,6 @@
 	- git add
 - コミットする
 	- git commit
+- リモートリポジトリにpushする
+	- git push origin <ブランチ名>
+
