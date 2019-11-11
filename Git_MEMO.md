@@ -9,4 +9,5 @@
 	- git commit
 - リモートリポジトリにpushする
 	- git push origin <ブランチ名>
-
+- リモートリポジトリから最新を取得する
+	- git pull
